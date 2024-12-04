@@ -1,4 +1,4 @@
-#Blog de gatos
+# Blog de gatos
 
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src=".github/preview.jpg" width="100%">
