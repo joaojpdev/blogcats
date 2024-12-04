@@ -6,8 +6,11 @@
 
 Site responsivo de blog com artigos sobre gatos. O projeto também apresenta uma barra de busca, recomendação de artigos relacionados e avaliação do artigo.
 - Mobile First;
-- Unidade de medida flexível;
-- Grid;
+- Unidades de medidas flexíveis;
+- Display Grid;
 - Variáveis no CSS;
 - Animações e transições simples
 
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/webdevjoao/)
+[Deploy](https://joaojpdev.github.io/blogcats//)
